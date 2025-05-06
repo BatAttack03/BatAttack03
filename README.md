@@ -1,5 +1,5 @@
 - 🦇 Hi! I’m @BatAttack03
 - 👽 I like gaming and art!
-- 🐍 I’m currently learning Python
+- 🐍 I’m currently learning Java, HTML, and CSS
 - 💟 Pronouns: she/they
 - 🥟 Fun fact: I'm currently reading Dorohedoro!
